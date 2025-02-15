@@ -29,7 +29,7 @@ body {
 input,
 button {
   padding: 10px 20px;
-  background-color: #a474c0;
+  background-color: #10c6d39a;
   color: #000000;
   outline: none;
   border: none;
@@ -45,7 +45,7 @@ input::placeholder {
 
 button:hover {
   cursor: pointer;
-  background-color: #8527d7;
+  background-color: #6171b135;
 }
 
 .list {
