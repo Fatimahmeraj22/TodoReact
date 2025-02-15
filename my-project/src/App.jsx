@@ -62,7 +62,7 @@ const App = () => {
   return (
     <main className="min-h-screen bg-gray-100 flex items-center justify-center p-6">
       <div className="bg-white shadow-lg rounded-lg p-6 max-w-lg w-full">
-        <h1 className="text-3xl font-bold text-center text-blue-600 mb-4">To-Do App</h1>
+        <h1 className="text-3xl font-bold text-center text-blue-600 mb-4">The Done List Starts Here</h1>
         
         <div className="flex gap-2 mb-4">
           <input
